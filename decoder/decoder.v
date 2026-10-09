@@ -1,6 +1,6 @@
 `timescale 1ns/1ps
 
-module encoder
+module decoder
 (
     input wire [1:0] sel, 
     input wire       en,    //en stands for enable not encoder 
